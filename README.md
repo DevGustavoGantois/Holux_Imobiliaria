@@ -11,7 +11,7 @@ Mesmo utilizando tecnologias básicas como HTML, CSS e JavaScript, é possível 
 ![image](https://github.com/DevGustavoGantois/Holux_Imobiliaria/assets/123424700/ac3b059b-3724-4780-b83e-c44e8120fa14)
 
 
-###ING
+<h1>Inglês</h1>
 
 
 <p>The Holux Imobiliária project is a website developed with HTML, CSS and JavaScript technologies. This project stands out for its efficient use of the display grid to organize the layout, making it highly responsive.
